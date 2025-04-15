@@ -1,3 +1,10 @@
+# A propos de ce projet
+C'est un petit projet, aidé par chatGPT, pour réaliser un timer qui me permet au fur et à mesure de mes cours, de vérifier, pour chaque créneau de cours, le temps écoulé et le temps restant. Cela permet de s'organiser en temps réel. 
+Je sais, on peut le faire aussi avec une montre... mais les geeks ne sont pas les plus simples d'esprit... ;-)
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
